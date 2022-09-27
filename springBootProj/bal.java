@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Adding changes by dev1
-=======
+Adding changes by dev
 Making changes by dev2
->>>>>>> dev2
+
